@@ -27,6 +27,7 @@ Catalina running (somewhat) on i5 Dell G3
 - Wifi
 - USB
 - Touchpad
+- iServices (Generate unique serial first!)
 
 ## Not working
 - dGPU (Nvidia probably never will)
@@ -40,10 +41,9 @@ Catalina running (somewhat) on i5 Dell G3
 - Touchpad always registers a force touch (which can be disabled in System Preferences but annoying)
 
 ## Untested
-- iCloud features
-- Handoff, Continuity etc.
-- Anything that requires an Apple ID login
 - 2.5 Gbps ethernet (I don't have another 2.5 gig device. 1 Gbps works.)
+- HDMI port
+- DisplayPort
 
 ## Credits
 Heavily based on the config.plist at https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579 
